@@ -9,4 +9,19 @@
 body {
     font-family: Oswald, sans-serif;
     font-weight: 300;
+    color: #fafafa;
+    background-color: #232323;
+}
+
+h1, h2 {
+    font-family: Bitter, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #fafafa;
+}
+
+#logo {
+    float: left;
+    font-size: 310%;
+    margin-left: 30px;
 }
