@@ -51,6 +51,9 @@ h1, h2 {
     border-bottom: 1px solid #fafafa;
 }
 
+.active {
+    border-bottom: 1px solid #fafafa;
+}
 
 #hero-outer {
     height: 800px;
@@ -65,26 +68,60 @@ h1, h2 {
 }
 
 #overview {
-    height: 800px;
+    height: 1000px;
 }
 
 #left-overview {
     padding-top: 30px;
-    width: 33%;
+    width: 20%;
     float: left;
-    background-color: blue;
 }
 
 
 #right-overview {
     padding-top: 30px;
-    width: 33%;
+    width: 20%;
     float: right;
-    background-color: aquamarine;
 }
 
 #center-overview {
-    width: 33%;
+    width: 60%;
     margin: 0 auto;
     background-color: chocolate;
+}
+
+hr {
+    border-top: 1px solid #fafafa;
+    width: 98%;
+    margin: 5px;
+}
+
+.left-overview-heading {
+    width: 90%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-overview-heading {
+    width: 90%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-overview-heading h2 {
+    text-align: right;
+}
+
+.right-overview-heading p {
+    text-align: right;
+}
+
+#about {
+    text-align: center;
+    margin: 20px;
+    font-size: 260%;
 }
