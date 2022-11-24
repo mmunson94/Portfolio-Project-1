@@ -40,6 +40,7 @@ h1, h2 {
     float: right;
     list-style-type: none;
     margin-right: 15px;
+    display: inline;
 }
 
 #menu a {
@@ -141,4 +142,23 @@ hr {
     height: 100%;
     background-size: contain;
 
+}
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #fafafa;
 }
