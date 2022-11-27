@@ -65,8 +65,7 @@ h1, h2 {
 #hero-image {
     height: 800px;
     width: 100%;
-    background: url('../images/Busby-babes-hero-image-3.jpeg') no-repeat center center 
-    alt="Manchester United 1958 team before a game";
+    background: url('../images/Busby-babes-hero-image-3.jpeg') no-repeat center center;
 }
 
 #overview {
@@ -138,8 +137,7 @@ hr {
 }
 
 #center-image-overview {
-    background: url('../images/munich-plane-crash.webp') no-repeat center center 
-    alt="Two men next to the plane crash of the Munich air disaster";
+    background: url('../images/munich-plane-crash.webp') no-repeat center center;
     height: 100%;
     background-size: cover;
     background-position-x: left;
