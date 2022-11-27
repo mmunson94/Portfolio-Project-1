@@ -260,8 +260,15 @@ footer > div {
     }
 }
  
+/* for small mobile screens size 380px and down */
 @media screen and (min-width: 380px) {
     #menu {
+        clear: both;
+        float: left;
+        margin-left: 10px;
+    }
+
+    #overview > h2 {
         clear: both;
         float: left;
         margin-left: 10px;
