@@ -11,6 +11,8 @@ body {
     font-weight: 300;
     color: #fafafa;
     background-color: #232323;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
 }
 
 h1, h2 {
@@ -99,7 +101,6 @@ hr {
 .left-overview-heading {
     width: 90%;
     float: right;
-    line-height: 20px;
     clear: both;
     margin-bottom: 50px;
 }
@@ -107,7 +108,6 @@ hr {
 .right-overview-heading {
     width: 90%;
     float: left;
-    line-height: 20px;
     clear: both;
     margin-bottom: 50px;
 }
@@ -123,26 +123,34 @@ hr {
 #about {
     text-align: center;
     margin: 30px;
-    font-size: 260%;
+    font-size: 3.25rem;
 }
 
 #container {
-    width: 600px;
-    height: 400px;
+    width: 650px;
+    height: 750px;
     padding: 10px;
     border-style: solid;
     border-color: #ccc;
     border-width: 1px;
     margin: 0 auto;
-    margin-top: 100px;
+    margin-top: 120px;
 }
 
 #center-image-overview {
     background: url('../images/munich-plane-crash.webp') no-repeat center center;
     height: 100%;
-    background-size: contain;
-
+    background-size: cover;
+    background-position-x: left;
 }
+
+.form-section {
+    height: 600px;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 2rem;
+}
+
 
 footer {
     height: 80px;
