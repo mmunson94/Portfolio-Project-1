@@ -10,17 +10,21 @@
    * Featured at the top of the page, The nav bar allow users a simple clear structure when they click on the page allowing them  to jump to which ever section they wish to use. 
    
    * The navagation bar links to the overview, Sign up and contact information.
-   
+
 <br>
 
-![my screenshot](../Portfolio-Project-1/assets/images/Screenshot%202022-11-28%20at%2016.02.42.png)
+![Navagtion bar screenshot](../Portfolio-Project-1/assets/images/Screenshot%202022-11-28%20at%2016.02.42.png)
 
-   <br>
+<br>
 
 * ### Landing page image
    * The Landing page Includes a striking black & white image of the Manchester United team involved with the tragic event that instantly grabs the users attention
 
    * The image used correlates to the theme of the page as the black & white image reflects the time period and somber mood of the topic. 
+
+<br>
+
+![Hero image screenshot](../Portfolio-Project-1/assets/images/Hero-image-screenshot.png)
 
 <br>
 

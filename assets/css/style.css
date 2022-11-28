@@ -16,6 +16,13 @@ body {
     max-width: 1800px;
     margin: 0 auto;
 }
+
+hr {
+    border-top: 1px solid #fafafa;
+    width: 100%;
+    margin: 5px;
+}
+
 /* headings and logo */
 h1, h2 {
     font-family: Bitter, sans-serif;
@@ -72,7 +79,7 @@ h1, h2 {
 
 /* overview */
 #overview {
-    height: 750px;
+    height: 650px;
 }
 
 #left-overview {
@@ -90,12 +97,6 @@ h1, h2 {
 #center-overview {
     width: 60%;
     margin: 0 auto;
-}
-
-hr {
-    border-top: 1px solid #fafafa;
-    width: 100%;
-    margin: 5px;
 }
 
 .left-overview-heading {
