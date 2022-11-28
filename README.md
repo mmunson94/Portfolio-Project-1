@@ -4,6 +4,10 @@
 
 <br>
 
+![Ami.responsive screenshot](../Portfolio-Project-1/assets/images/Ami.responsive-screenshot.png)
+
+<br>
+
 ## Features
 
 * ### Navagation Bar
