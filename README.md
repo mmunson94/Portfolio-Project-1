@@ -48,6 +48,10 @@
 
    <br>
 
+   ![Signup screenshot](../Portfolio-Project-1/assets/images/signup-screenshot.png)
+
+   <br>
+
 * ### The Footer 
    * The footer section provides users with links to all the relevant social media surrounding Manchester United and the Munich air disaster.
 
