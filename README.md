@@ -4,6 +4,7 @@
 
 <br>
 
+<img width="993" alt="Screenshot 2022-11-28 at 16 53 17" src="https://user-images.githubusercontent.com/114744383/204350713-8baf49a8-a78e-4541-bd48-6d97a9f23c21.png">
 <br>
 
 ## Features
