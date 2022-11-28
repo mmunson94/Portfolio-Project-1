@@ -8,7 +8,7 @@
     <meta name="description"
         content="Historical site for the 1958 Munich Air Disaster & Musuem tour at Old Trafford, Manchester">
     <meta name="keywords" content="1958 Munich Air Disaster, Musuem tour, Old Trafford, Manchester">
-<!-- Stylesheet -->
+    <!-- Stylesheet -->
     <link rel="stylesheet" href="assets/css/style.css">
     <title>1958 Munich Air Disaster</title>
 </head>
@@ -35,18 +35,25 @@
     </header>
 
     <hr>
-<!-- landing image -->
+    <!-- landing image -->
     <section id="hero-outer">
         <div id="hero-image"></div>
     </section>
 
     <hr>
-<!-- Overview section -->
+    <!-- Overview section -->
     <section id="overview">
         <h2 id="about">Overview</h2>
 
-        <div id="left-overview">
-            <div class="left-overview-heading">
+        <div id="center-overview">
+            <div id="container">
+                <div id="center-image-overview"></div>
+            </div>
+        </div>
+
+        <div id="overview-content">
+            <div class="overview-main">
+                <hr>
                 <h3>Background</h3>
                 <hr>
                 <p>
@@ -58,8 +65,7 @@
                     the Aircraft
                     carrying the Manchester team and its other passengers.
                 </p>
-            </div>
-            <div class="left-overview-heading">
+                <hr>
                 <h3>Crash</h3>
                 <hr>
                 <p>
@@ -76,12 +82,9 @@
                     back to the plane 15 minutes after leaving it. On the third and final attempt, the plane threw up
                     slush as
                     it gathered speed causing it to skid off the end of the runway and crashing into a nearby house.
-
                 </p>
-            </div>
-        </div>
-        <div id="right-overview">
-            <div class="right-overview-heading">
+                <hr>
+
                 <h3>Investigation</h3>
                 <hr>
                 <p>
@@ -101,8 +104,8 @@
                     much
                     to enable take-off. Thain was cleared in 1968, ten years after the incident.
                 </p>
-            </div>
-            <div class="right-overview-heading">
+                <hr>
+
                 <h3>Aftermath</h3>
                 <hr>
                 <p>
@@ -114,17 +117,13 @@
                     manager
                     Matt Busby, which proved to the fitting tribute to the victims of 1958.
                 </p>
+                <hr>
             </div>
         </div>
-<!-- center image of overview section -->
-        <div id="center-overview">
-            <div id="container">
-                <div id="center-image-overview"></div>
-            </div>
-        </div>
+
     </section>
     <hr>
-<!-- form section -->
+    <!-- form section -->
     <section id="sign-up" class="form-section">
 
         <h2>Sign up to the Old Trafford Museum tour!</h2>
@@ -136,30 +135,29 @@
             you will recieve and email with further information on how to do so if you are interested.
         </p>
 
-            <form action=""https://formdump.codeinstitute.net/"" class="form-input" method="post">
-                <label for="fname">First name:</label>
-                <input class="text-input" type="text" id="fname" name="fname" required placeholder="Enter First Name">
-                <br>
-                <label for="lname">Last name:</label>
-                <input class="text-input" type="text" name="lname" id="lname" required placeholder="Enter Last Name">
-                <br>
-                <label for="email">Email Address:</label>
-                <input class="text-input" type="email" id="email" name="email" required
-                    placeholder="Enter Email Address">
-                <br>
-                <input id="signup-button" type="submit" value="submit">
-            </form>
+        <form action="" https://formdump.codeinstitute.net/"" class="form-input" method="post">
+            <label for="fname">First name:</label>
+            <input class="text-input" type="text" id="fname" name="fname" required placeholder="Enter First Name">
+            <br>
+            <label for="lname">Last name:</label>
+            <input class="text-input" type="text" name="lname" id="lname" required placeholder="Enter Last Name">
+            <br>
+            <label for="email">Email Address:</label>
+            <input class="text-input" type="email" id="email" name="email" required placeholder="Enter Email Address">
+            <br>
+            <input id="signup-button" type="submit" value="submit">
+        </form>
 
     </section>
     <hr>
-<!-- footer -->
+    <!-- footer -->
     <footer>
         <div id="contact-us">
             <h2>Contact Us</h2>
             <p>Phone: 0161 676 7770</p>
             <p>Address: Sir Matt Busby Way, Old Trafford, Stretford, Manchester M16 0RA</p>
         </div>
-<!-- social media links -->
+        <!-- social media links -->
         <ul class="social-networks">
             <li>
                 <a href="http://facebook.com" target="_blank" rel="noopener"
