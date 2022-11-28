@@ -4,8 +4,6 @@
 
 <br>
 
-![](../Portfolio-Project-1/assets/images/screenshots/Screenshot%202022-11-28%20at%2016.53.17.png)
-
 <br>
 
 ## Features
@@ -100,3 +98,6 @@ https://www.manutd.com/en/news/detail/munich-air-disaster-was-the-darkest-day-in
 
    * the image used for the overview section was taken from 
 https://www.gq-magazine.co.uk/article/manchester-united-remembering-the-munich-air-disaster
+
+
+[def]: https://user-images.githubusercontent.com/114744383/204342580-e6ad4dfe-9c04-4344-a663-eab8f7c5f1da.png
