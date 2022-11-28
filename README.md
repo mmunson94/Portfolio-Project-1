@@ -16,7 +16,7 @@
 
 <br>
 
-
+<img width="1438" alt="Screenshot 2022-11-28 at 16 02 42" src="https://user-images.githubusercontent.com/114744383/204351065-c8db976a-93cb-4820-aea0-c2914c61081e.png">
 
 <br>
 
@@ -27,7 +27,7 @@
 
 <br>
 
-
+<img width="1433" alt="Screenshot 2022-11-28 at 16 09 00" src="https://user-images.githubusercontent.com/114744383/204351094-3ec72b0d-dfa4-463a-8440-d0565202bcf4.png">
 
 <br>
 
@@ -36,10 +36,11 @@
 
    * It also offers another striking image relevant to the content provided. The image used allows user to see the extent of the damage the aircraft sustained in the disaster.
 
-   <br>
+<br>
 
-   
-   <br>
+   <img width="1440" alt="Screenshot 2022-11-28 at 16 24 10" src="https://user-images.githubusercontent.com/114744383/204351177-37836bba-e7d2-4fa7-8a87-c7027cb1dbe8.png">
+
+<br>
 
 * ### Sign up section
    *    The signup section allows users to delve deeper into the rich history surrounding the club and event by offering the user a chance to attend the museum tour provided by the club at their stadium. 
@@ -48,7 +49,7 @@
 
    <br>
 
-  
+  <img width="1439" alt="Screenshot 2022-11-28 at 16 27 16" src="https://user-images.githubusercontent.com/114744383/204351233-5ed845b5-bd26-46b4-8dae-a22d512562c2.png">
 
    <br>
 
@@ -61,7 +62,7 @@
 
 <br>
 
-
+<img width="819" alt="Screenshot 2022-11-28 at 16 29 52" src="https://user-images.githubusercontent.com/114744383/204351249-6a5630fe-9964-4078-93ab-44a685fbeecc.png">
 
 <br>
 
