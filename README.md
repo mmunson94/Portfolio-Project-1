@@ -39,6 +39,10 @@
 
    <br>
 
+   ![Overview screenshot](../Portfolio-Project-1/assets/images/Overview-screenshot.png)
+
+   <br>
+
 * ### Sign up section
    *    This section allows users to delve deeper into the history surrounding the event and the rich history the museum tour at Old Trafford can provide by allowing users to provde their contact details to recieve information on how to attend the tours.
 
