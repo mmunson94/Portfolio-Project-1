@@ -4,7 +4,6 @@
 
 <br>
 
-![Ami.responsive screenshot](../Portfolio-Project-1/assets/images/Ami.responsive-screenshot.png)
 
 <br>
 
@@ -17,7 +16,7 @@
 
 <br>
 
-![Navagtion bar screenshot](../Portfolio-Project-1/assets/images/Screenshot%202022-11-28%20at%2016.02.42.png)
+
 
 <br>
 
@@ -28,7 +27,7 @@
 
 <br>
 
-![Hero image screenshot](../Portfolio-Project-1/assets/images/Hero-image-screenshot.png)
+
 
 <br>
 
@@ -39,8 +38,7 @@
 
    <br>
 
-   ![Overview screenshot](../Portfolio-Project-1/assets/images/Overview-screenshot.png)
-
+   
    <br>
 
 * ### Sign up section
@@ -48,7 +46,7 @@
 
    <br>
 
-   ![Signup screenshot](../Portfolio-Project-1/assets/images/signup-screenshot.png)
+  
 
    <br>
 
@@ -61,7 +59,7 @@
 
 <br>
 
-![Footer screenshot](../Portfolio-Project-1/assets/images/footer-screenshot.png)
+
 
 <br>
 
