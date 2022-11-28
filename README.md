@@ -61,6 +61,10 @@
 
 <br>
 
+![Footer screenshot](../Portfolio-Project-1/assets/images/footer-screenshot.png)
+
+<br>
+
 * ### Features left to implement
    * Some features that could of been provided is a video from YouTube that adds to the information provided on the topic or a gallery page with more images on the event.
 
