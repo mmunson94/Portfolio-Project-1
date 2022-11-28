@@ -10,6 +10,10 @@
    * Featured at the top of the page, The nav bar allow users a simple clear structure when they click on the page allowing them  to jump to which ever section they wish to use. 
    
    * The navagation bar links to the overview, Sign up and contact information.
+   
+<br>
+
+![my screenshot](../Portfolio-Project-1/assets/images/Screenshot%202022-11-28%20at%2016.02.42.png)
 
    <br>
 
@@ -46,3 +50,32 @@
 
 <br>
 
+## Deployment
+* The site was deployed to Github pages. The steps to deploy are as follows:
+   * In the Github repository, navigate to the sittings tab
+   * Under the code and automation subcetion, select the pages tab
+   * Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate successful deployment.
+
+<br>
+
+The live link can be found here - https://mmunson94.github.io/Portfolio-Project-1/
+
+<br>
+
+## Credits
+
+* ### Content
+   * The text for the Overview section was taken and adapted from https://en.wikipedia.org/wiki/Munich_air_disaster
+
+   * Instructions on how to implement form validation was taken from code.institute
+
+   * The icons used in the footer were taken from font awesome
+
+   <br>
+
+* ### Media 
+   * The image used for the hero image was taken from
+https://www.manutd.com/en/news/detail/munich-air-disaster-was-the-darkest-day-in-manchester-united-history
+
+   * the image used for the overview section was taken from 
+https://www.gq-magazine.co.uk/article/manchester-united-remembering-the-munich-air-disaster
