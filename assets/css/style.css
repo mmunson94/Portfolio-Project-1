@@ -322,8 +322,10 @@ footer > div {
 @media screen and (min-width: 800px) and (max-width: 1600px) {
     #menu {
         display: inline-block;
+        margin: 0 auto;
         float: left;
         padding-left: 50px;
+        clear: both;
     }
 }
 
