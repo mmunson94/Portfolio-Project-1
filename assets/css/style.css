@@ -243,6 +243,7 @@ footer > div {
     }
 }
 
+/* for small screen sizes between 320px to 480px */
  @media screen and (min-width: 320px) and (max-width: 480px) {
     #logo {
         font-size: 2rem;
@@ -255,16 +256,22 @@ footer > div {
 
     #about {
         font-size: 2rem;
-        float: left;
+        margin: 0 auto;
         margin-top: 30px;
+        margin-bottom: 30px;
+        text-align: center;
     }
 
-    #overview {
+    #overview-content {
+        padding: 0;
+    }
+
+    .overview-main > p {
         font-size: 1rem;
     }
 
     #container {
-        width: 80%;
+        width: 100%;
         height: 200px;
         margin-top: 20px;
         clear: both;
@@ -278,9 +285,18 @@ footer > div {
         height: 1100px;
     }
 
-    #form-input {
-        font-size: 0.5rem;
-        height: 100px;
+    #sign-up > h2 {
+        margin-right: 20px;
+        margin-left: 20px;
+        margin-top: 40px;
+    }
+
+    .form-input {
+        font-size: 1.5rem;
+        height: 440px;
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-top: 40px;
     }
 }
  
