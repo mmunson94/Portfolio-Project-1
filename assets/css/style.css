@@ -79,6 +79,10 @@ h1, h2 {
 
 /* overview */
 
+#overview {
+    min-width: 90%;
+}
+
 .overview-main {
     text-align: center;
     width: 80%;
@@ -86,6 +90,7 @@ h1, h2 {
     margin-right: auto;
     margin-bottom: 100px;
     font-size: 1.5rem;
+    line-height: 2rem;
 }
 
 .overview-main > p {
@@ -135,13 +140,18 @@ h1, h2 {
     text-align: center;
     margin-top: 100px;
     font-size: 1.75rem;
-    line-height: 3rem;
+    line-height: 2rem;
     margin-bottom: 50px;
 }
 
 .form-section > p {
     width: 80%;
     margin: 0 auto;
+    margin-top: 20px;
+}
+
+.form-section h2 {
+    line-height: 3rem;
 }
 
 .form-input {
@@ -153,7 +163,7 @@ h1, h2 {
     display: inline-block;
     box-sizing: border-box;
     max-width: 600px;
-    padding: 12px 20px;
+    padding: 12px 20px
 }
 
 .text-input {
@@ -250,7 +260,7 @@ footer > div {
     }
 
     #menu {
-        font-size: 0.75rem;
+        font-size: 1.2rem;
         float: left;
     }
 
@@ -268,6 +278,8 @@ footer > div {
 
     .overview-main > p {
         font-size: 1rem;
+        line-height: 2rem;
+        text-align: justify;
     }
 
     #container {
@@ -297,6 +309,7 @@ footer > div {
         margin-left: 15px;
         margin-right: 15px;
         margin-top: 40px;
+        width: 90%;
     }
 }
  
