@@ -4,7 +4,7 @@
 
 <br>
 
-<img width="1025" alt="Screenshot 2022-11-29 at 14 44 21" src="https://user-images.githubusercontent.com/114744383/204561017-10125a36-4952-43f4-94a5-c6e21b7bebe9.png">
+<img width="1007" alt="Screenshot 2022-11-29 at 21 21 33" src="https://user-images.githubusercontent.com/114744383/204650617-95d27649-6c19-46d2-8959-9c48bb272374.png">
 
 ## Features
 
@@ -49,7 +49,7 @@
 
    <br>
 
- <img width="1244" alt="Screenshot 2022-11-29 at 14 47 43" src="https://user-images.githubusercontent.com/114744383/204561354-0c86a31a-3842-4025-9d4c-2b52a95cae81.png">
+<img width="1436" alt="Screenshot 2022-11-29 at 21 23 29" src="https://user-images.githubusercontent.com/114744383/204650846-55f7532b-9481-4e77-8d28-5e92fcbdd0c2.png">
 
    <br>
 
