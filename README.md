@@ -108,8 +108,7 @@
 
   I have also validated the colours and fonts of the website by running it through the lighthouse in Chrome developer tools
    
-   *Lighthouse
-   
+   * Lighthouse
 <img width="801" alt="Screenshot 2022-11-29 at 22 23 33" src="https://user-images.githubusercontent.com/114744383/204672568-6ada5943-723c-412f-8993-4fc33638ace6.png">
    
 ## Further Testing
