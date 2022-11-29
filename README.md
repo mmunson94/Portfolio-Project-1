@@ -37,8 +37,7 @@
 
 <br>
 
-   <img width="1440" alt="Screenshot 2022-11-28 at 16 24 10" src="https://user-images.githubusercontent.com/114744383/204351177-37836bba-e7d2-4fa7-8a87-c7027cb1dbe8.png">
-
+  
 <br>
 
 * ### Sign up section
@@ -48,7 +47,7 @@
 
    <br>
 
-  <img width="1439" alt="Screenshot 2022-11-28 at 16 27 16" src="https://user-images.githubusercontent.com/114744383/204351233-5ed845b5-bd26-46b4-8dae-a22d512562c2.png">
+ 
 
    <br>
 
