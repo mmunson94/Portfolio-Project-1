@@ -1,6 +1,6 @@
 # 1958 Munich Air Disaster 
 
-1958 Munich Air Disaster is a site created to inform people on a major event in the history of Manchester United. It aims to provide education on the topic as well as offering the chance to sign up to a tour of Manchester United’s stadium, Old Trafford. The site will be targeted towards Manchester United fans or football fans in general who are looking to educate themselves on the topic and who wish to attend the museum tour at Old Trafford.
+1958 Munich Air Disaster is a site created to inform people of a major event in the history of Manchester United. It aims to provide education on the topic as well as offering the chance to sign up to a tour of Manchester United’s stadium, Old Trafford. The site will be targeted towards Manchester United fans or football fans in general who are looking to educate themselves on the topic and who wish to attend the museum tour at Old Trafford.
 
 <br>
 
