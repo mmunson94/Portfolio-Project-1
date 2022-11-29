@@ -52,7 +52,7 @@ h1, h2 {
     float: right;
     list-style-type: none;
     margin-right: 15px;
-    display: inline;
+    display: block;
 }
 
 #menu a {
@@ -84,7 +84,7 @@ h1, h2 {
 }
 
 .overview-main {
-    text-align: center;
+    text-align: justify;
     width: 80%;
     margin-left: auto;
     margin-right: auto;
@@ -100,6 +100,7 @@ h1, h2 {
 
 .overview-main > h3 {
     font-size: 2rem;
+    text-align: center;
 }
 
 #about {
@@ -140,7 +141,7 @@ h1, h2 {
     text-align: center;
     margin-top: 100px;
     font-size: 1.75rem;
-    line-height: 2rem;
+    line-height: 3rem;
     margin-bottom: 50px;
 }
 
@@ -223,6 +224,7 @@ footer > div {
         width: 65%;
         height: 1500px;
         margin: 0 auto;
+        min-width: 95%;
     }
 
      #overview-content {
@@ -260,8 +262,9 @@ footer > div {
     }
 
     #menu {
-        font-size: 1.2rem;
+        font-size: 0.95rem;
         float: left;
+        display: inline;
     }
 
     #about {
@@ -298,8 +301,8 @@ footer > div {
     }
 
     #sign-up > h2 {
-        margin-right: 20px;
-        margin-left: 20px;
+       margin-left: auto;
+       margin-right: auto;
         margin-top: 40px;
     }
 
