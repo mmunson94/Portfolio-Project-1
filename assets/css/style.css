@@ -262,9 +262,9 @@ footer > div {
     }
 
     #menu {
-        font-size: 0.95rem;
+        font-size: 0.94rem;
         float: left;
-        display: inline;
+        display: inline-block;
     }
 
     #about {
