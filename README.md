@@ -72,11 +72,67 @@
 
 <br>
 
-## Deployment
+## Design
+   * I have used used a black & white as the main theme for this website. This reflects the time period the topic is on and resonates with the sombre tone of the event.
+   * The text color of white was chosen as it correlates with the them and is easy to read with the dark backdrop
+   
+<br>
+   
+## Technologies Used
+   * HTML5
+   * CSS3
+   * Google Fonts: To import font family 'Bitter' & 'Oswald' into the the style.css file. Added fallback font sans-serif.
+   * Font Awesome: Was used in footer for social media links  for asthetic and UX purposes.
+  
+<br>
+
+## Testing
+
+### Browser Testing
+   * I have tested that this page works using macOS
+   * I have tested that this page works in the following browsers using macOS: Chrome, Safari and Firefox.
+   * I have tested this page works on iOS devices using Safari browser (Iphone SE)
+   
+### Responsivness
+   * I have used Chrome developer tools to check the resposivness of the website
+   * I have tested the resposivness for different screen sizes from iPhone 5 (320px wide) and very large screens (2880px wide)
+   
+## Validator Testing 
+   *The W3C Markup Validator and W3C CSS Validator Services were used to ensure no syntax errors and validation of website 
+   
+   * W3C Markup Validator
+   <img width="1436" alt="Screenshot 2022-11-29 at 21 33 22" src="https://user-images.githubusercontent.com/114744383/204672438-bb270642-614c-44ec-9dd8-e9c7e90f7d92.png">
+   
+   * W3C CSS Validator
+<img width="615" alt="Screenshot 2022-11-29 at 21 38 18" src="https://user-images.githubusercontent.com/114744383/204672511-bf9e8796-dfab-4534-8fcc-569ca5d2968c.png">  
+
+  I have also validated the colours and fonts of the website by running it through the lighthouse in Chrome developer tools
+   
+   *Lighthouse
+<img width="801" alt="Screenshot 2022-11-29 at 22 23 33" src="https://user-images.githubusercontent.com/114744383/204672568-6ada5943-723c-412f-8993-4fc33638ace6.png">
+   
+## Further Testing
+   * I have tested that the navigation links in the header all work correctly and take you to the correct section of the page
+   * I have tested that the links underline when hovered over 
+   * I have tested that the external social media links in the footer all work
+   * I have tested that the first name, last name and email are all required in order to submit the form
+   * I have tested that the submit button changes colour when hovered over
+
+## Solved Bugs
+   * When testing on safari I realised the navigation links in the header were bunched to the right on medium sized screens. Clear: both; was added to the media query to fix this
+   
+   * When testing on mobile devices I realised the form section was encroaching on the footer. This was fixed by removing the height of the footer
+   
+   * When testing on mobile devices I realised the content in the overview section was too and crowded. I fix this by setting text-align to justify
+   
+   ## Deployment 
 * The site was deployed to Github pages. The steps to deploy are as follows:
-   * In the Github repository, navigate to the sittings tab
-   * Under the code and automation subcetion, select the pages tab
-   * Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate successful deployment.
+   * Log in to GitHub and locate the GitHub Repository.
+   * In the Github repository, navigate to the settings tab
+   * Under the code and automation subsection, select the pages tab
+   * Once the main branch has been selected and saved, the page will be automatically refreshed with a detailed ribbon display to indicate successfull deployment.
+   
+  <img width="803" alt="Screenshot 2022-11-29 at 21 38 50" src="https://user-images.githubusercontent.com/114744383/204672645-42eb5abf-b241-45c9-94eb-b050c3a06f02.png">
 
 <br>
 
