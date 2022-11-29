@@ -318,6 +318,16 @@ footer > div {
     }
 }
  
+/* for medium to large screens between 1200px to 1600px */
+@media screen and (min-width: 1200px) and (max-width: 1600px) {
+    #menu {
+        display: inline-block;
+        float: left;
+        padding-left: 50px;
+    }
+}
+
+
 
 
 
