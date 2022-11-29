@@ -37,8 +37,9 @@
 
 <br>
 
-<img width="1215" alt="Screenshot 2022-11-29 at 14 46 53" src="https://user-images.githubusercontent.com/114744383/204561115-7e192768-d7a2-4df2-9b2d-f4ab3379ea03.png">
-<img width="1251" alt="Screenshot 2022-11-29 at 14 47 21" src="https://user-images.githubusercontent.com/114744383/204561239-aae20896-271b-48f0-ad98-c036539d9878.png">
+<img width="1440" alt="Screenshot 2022-11-29 at 21 26 11" src="https://user-images.githubusercontent.com/114744383/204651354-a0e3c75d-cde4-4e2a-86a6-3420c3699d4c.png">
+<img width="1432" alt="Screenshot 2022-11-29 at 21 26 26" src="https://user-images.githubusercontent.com/114744383/204651446-3c56f574-c538-4d2b-9210-4776787027db.png">
+<img width="1440" alt="Screenshot 2022-11-29 at 21 26 35" src="https://user-images.githubusercontent.com/114744383/204651475-268c381c-31cf-4cdc-a014-fc46a821bcf4.png">
 
 <br>
 
