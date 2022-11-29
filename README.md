@@ -45,7 +45,7 @@
 * ### Sign up section
    *    The signup section allows users to delve deeper into the rich history surrounding the club and event by offering the user a chance to attend the museum tour provided by the club at their stadium. 
 
-   * the form allows users to provde their contact details to recieve information on how to attend the tours.
+   * the form allows users to provide their contact details to recieve information on how to attend the tours.
 
    <br>
 
@@ -56,7 +56,7 @@
 * ### The Footer 
    * The footer section provides users with links to all the relevant social media provided by Manchester United
 
-   * The links will open in a separate tab making sure the user doesnt deviate from the site.
+   * The links will open in a separate tab making sure the user does not deviate from the site.
 
    * This feature allows users to keep up to date with all the social media the club provides.
 
