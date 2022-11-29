@@ -4,7 +4,7 @@
 
 <br>
 
-<img width="995" alt="Screenshot 2022-11-28 at 21 58 16" src="https://user-images.githubusercontent.com/114744383/204389717-85f34e36-0b8a-4606-8fb3-ef4927e3f660.png">
+<img width="1025" alt="Screenshot 2022-11-29 at 14 44 21" src="https://user-images.githubusercontent.com/114744383/204561017-10125a36-4952-43f4-94a5-c6e21b7bebe9.png">
 
 ## Features
 
@@ -37,7 +37,9 @@
 
 <br>
 
-  
+<img width="1215" alt="Screenshot 2022-11-29 at 14 46 53" src="https://user-images.githubusercontent.com/114744383/204561115-7e192768-d7a2-4df2-9b2d-f4ab3379ea03.png">
+<img width="1251" alt="Screenshot 2022-11-29 at 14 47 21" src="https://user-images.githubusercontent.com/114744383/204561239-aae20896-271b-48f0-ad98-c036539d9878.png">
+
 <br>
 
 * ### Sign up section
@@ -47,7 +49,7 @@
 
    <br>
 
- 
+ <img width="1244" alt="Screenshot 2022-11-29 at 14 47 43" src="https://user-images.githubusercontent.com/114744383/204561354-0c86a31a-3842-4025-9d4c-2b52a95cae81.png">
 
    <br>
 
