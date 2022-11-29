@@ -8,10 +8,10 @@
 
 ## Features
 
-* ### Navagation Bar
+* ### Navigation Bar
    * Featured at the top of the page, The nav bar allow users a simple clear structure of the sites features. This allows users to jump to whatever section they wish to use. 
    
-   * The navagation bar links to the overview, Sign up and contact information.
+   * The navigation bar links to the overview, Sign up and contact information.
 
 <br>
 
