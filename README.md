@@ -2,6 +2,8 @@
 
 1958 Munich Air Disaster is a site created to inform people of a major event in the history of Manchester United. It aims to provide education on the topic as well as offering the chance to sign up to a tour of Manchester United’s stadium, Old Trafford. The site will be targeted towards Manchester United fans or football fans in general who are looking to educate themselves on the topic and who wish to attend the museum tour at Old Trafford.
 
+Link for live project - https://mmunson94.github.io/Portfolio-Project-1/
+
 <br>
 
 <img width="1007" alt="Screenshot 2022-11-29 at 21 21 33" src="https://user-images.githubusercontent.com/114744383/204650617-95d27649-6c19-46d2-8959-9c48bb272374.png">
@@ -74,7 +76,7 @@
 
 ## Design
    * I have used used a black & white as the main theme for this website. This reflects the time period the topic is on and resonates with the sombre tone of the event.
-   * The text color of white was chosen as it correlates with the them and is easy to read with the dark backdrop
+   * The text colour of white was chosen as it correlates with the them and is easy to read with the dark backdrop
    
 <br>
    
@@ -97,19 +99,31 @@
    * I have used Chrome developer tools to check the resposivness of the website
    * I have tested the resposivness for different screen sizes from iPhone 5 (320px wide) and very large screens (2880px wide)
    
+   <br>
+   
 ## Validator Testing 
    *The W3C Markup Validator and W3C CSS Validator Services were used to ensure no syntax errors and validation of website 
+   
+   <br>
    
    * W3C Markup Validator
    <img width="1436" alt="Screenshot 2022-11-29 at 21 33 22" src="https://user-images.githubusercontent.com/114744383/204672438-bb270642-614c-44ec-9dd8-e9c7e90f7d92.png">
    
+   <br>
+   
    * W3C CSS Validator
 <img width="615" alt="Screenshot 2022-11-29 at 21 38 18" src="https://user-images.githubusercontent.com/114744383/204672511-bf9e8796-dfab-4534-8fcc-569ca5d2968c.png">  
 
+<br>
+
   I have also validated the colours and fonts of the website by running it through the lighthouse in Chrome developer tools
+  
+  <br>
    
    * Lighthouse
 <img width="801" alt="Screenshot 2022-11-29 at 22 23 33" src="https://user-images.githubusercontent.com/114744383/204672568-6ada5943-723c-412f-8993-4fc33638ace6.png">
+
+<br>
    
 ## Further Testing
    * I have tested that the navigation links in the header all work correctly and take you to the correct section of the page
@@ -125,12 +139,16 @@
    
    * When testing on mobile devices I realised the content in the overview section was too and crowded. I fix this by setting text-align to justify
    
+   <br>
+   
    ## Deployment 
 * The site was deployed to Github pages. The steps to deploy are as follows:
    * Log in to GitHub and locate the GitHub Repository.
    * In the Github repository, navigate to the settings tab
    * Under the code and automation subsection, select the pages tab
    * Once the main branch has been selected and saved, the page will be automatically refreshed with a detailed ribbon display to indicate successfull deployment.
+   
+   <br>
    
   <img width="803" alt="Screenshot 2022-11-29 at 21 38 50" src="https://user-images.githubusercontent.com/114744383/204672645-42eb5abf-b241-45c9-94eb-b050c3a06f02.png">
 
@@ -147,7 +165,7 @@ The live link can be found here - https://mmunson94.github.io/Portfolio-Project-
 
    * Instructions on how to implement form validation was taken from code.institute
 
-   * The icons used in the footer were taken from font awesome
+   * The icons used in the footer were taken from Font Awesome
 
    <br>
 
@@ -160,3 +178,6 @@ https://www.gq-magazine.co.uk/article/manchester-united-remembering-the-munich-a
 
 
 [def]: https://user-images.githubusercontent.com/114744383/204342580-e6ad4dfe-9c04-4344-a663-eab8f7c5f1da.png
+
+## Acknowledgements 
+   * My mentor provided by Code Institute for the time and feedback they provided
