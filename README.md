@@ -102,7 +102,7 @@ Link for live project - https://mmunson94.github.io/Portfolio-Project-1/
    <br>
    
 ## Validator Testing 
-   *The W3C Markup Validator and W3C CSS Validator Services were used to ensure no syntax errors and validation of website 
+   * The W3C Markup Validator and W3C CSS Validator Services were used to ensure no syntax errors and validation of website 
    
    <br>
    
